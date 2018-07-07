@@ -251,6 +251,7 @@ Additions to this document that are properly formatted will automatically be pus
 - [Home Chef](https://www.homechef.com/careers) | Chicago, IL; Remote | Get-to-know-you meeting with the team, followed by a half-day collaborative coding session
 - [HoxHunt](https://jobs.hoxhunt.com) | Helsinki, Finland | Take-home project, pair programming on-site
 - [Human API](http://humanapi.co/company/careers) | Redwood City, CA | Technical phone interview, then on-site pair programming and design discussion
+- [Holidog](https://www.holidog.com) | Barcelona, Spain | Take-home real world project, then technical discussion about the code in-person or Skype and then cultural fit session.
 - [I|O](https://io.co.za/opportunities) | Cape Town, South Africa
 - [Icalia Labs](http://icalialabs.com) | Monterrey, Mexico | Pair programming, cultural fit session
 - [iConstituent](http://iconstituent.com/careers/) | Washington, DC | Take-home project and code review in-person
